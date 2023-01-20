@@ -4,7 +4,8 @@ console.log(typeof true);
 console.log(typeof undefined);
 console.log(typeof null);
 console.log("salut");
-console.log('deuxejhhgjheme test');
+console.log('deuxeiemojhggfhe test');
+console.log("lolh");
 
 let bisou
 let maman
