@@ -6,7 +6,7 @@ console.log(typeof null);
 console.log("salut");
 console.log('deuxeiemojhggfhe test');
 console.log("lolh");
-
+console.log("kjirj");
 let bisou
 let maman
 let papa
